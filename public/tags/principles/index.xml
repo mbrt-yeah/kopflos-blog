@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Principles on Kopflos</title>
+    <link>https://kopflos.mbrt.io/blog/tags/principles/</link>
+    <description>Recent content in Principles on Kopflos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kopflos.mbrt.io/blog/tags/principles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming language and principles</title>
+      <link>https://kopflos.mbrt.io/blog/posts/02_programming-language-and-principles/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kopflos.mbrt.io/blog/posts/02_programming-language-and-principles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

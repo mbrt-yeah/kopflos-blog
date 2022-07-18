@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Methodology on Kopflos</title>
+    <link>https://kopflos.mbrt.io/blog/tags/methodology/</link>
+    <description>Recent content in Methodology on Kopflos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kopflos.mbrt.io/blog/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software development methodology</title>
+      <link>https://kopflos.mbrt.io/blog/posts/01_software-development-methodology/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kopflos.mbrt.io/blog/posts/01_software-development-methodology/</guid>
+      <description>Scrumban In order to plan and keep track of the development process I will use the Scrumban methodology.
+This methodology gives me a lot of freedom regarding the conception of the individual features of »kopflos«. Instead of having to plan the entire features-set in advance, this method allows me to do so on-the-fly.
+Also, this method is not so strict regarding the timing of the implementation of the individual features. All I have to do is to plan iterations in which I commit to the implementation of a certain set of features.</description>
+    </item>
+    
+  </channel>
+</rss>
