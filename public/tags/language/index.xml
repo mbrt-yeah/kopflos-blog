@@ -5,14 +5,16 @@
     <link>https://kopflos.mbrt.io/blog/tags/language/</link>
     <description>Recent content in Language on Kopflos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kopflos.mbrt.io/blog/tags/language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kopflos.mbrt.io/blog/tags/language/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Programming language and principles</title>
-      <link>https://kopflos.mbrt.io/blog/posts/02_programming-language-and-principles/</link>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <title>Programming language and coding conventions</title>
+      <link>https://kopflos.mbrt.io/blog/posts/programming-language-and-coding-conventions/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kopflos.mbrt.io/blog/posts/02_programming-language-and-principles/</guid>
-      <description></description>
+      <guid>https://kopflos.mbrt.io/blog/posts/programming-language-and-coding-conventions/</guid>
+      <description>The language The core of »kopflos« will be a Node.js application. This means that either Javascript or Typescript will be the programming language of choice.
+To be honest, I don&amp;rsquo;t have to think long about this. The choice falls on Typescript for the following two reasons:
+I have been programming a lot with this language lately and am therefore more used to it than Javascript. The optional static typing and the resulting features at language and IDE level make me more productive.</description>
     </item>
     
   </channel>
