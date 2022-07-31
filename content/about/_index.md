@@ -29,22 +29,22 @@ A self-desciption of my programming skills would look as follows:
 
 ### Programming languages
 
-- TypeScript/JavaScript: Upper-intermediate
-- XSLT: Upper-intermediate
-- C#: Intermediate
-- Java: Intermediate
-- PHP: Pre-intermediate
+- `TypeScript/JavaScript`: Upper-intermediate
+- `XSLT`: Upper-intermediate
+- `C#`: Intermediate
+- `Java`: Intermediate
+- `PHP`: Pre-intermediate
 
 ### Markup languages
 
-- HTML: Upper-intermediate
-- Markdown: Upper-intermediate
+- `HTML`: Upper-intermediate
+- `Markdown`: Upper-intermediate
 
 ### Style languages
 
-- CSS: Upper-intermediate
+- `CSS`: Upper-intermediate
 
 ### Query languages
 
-- XPath: Intermediate
-- SQL: Elementary
+- `XPath`: Intermediate
+- `SQL`: Elementary
