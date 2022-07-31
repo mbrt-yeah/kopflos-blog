@@ -1,4 +1,5 @@
 +++
+slug = "software-development-methodology"
 author = "mbrt"
 title = "Software development methodology"
 date = "2022-07-17"
