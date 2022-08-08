@@ -5,7 +5,18 @@
     <link>https://kopflos.mbrt.io/blog/</link>
     <description>Recent content on Kopflos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kopflos.mbrt.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kopflos.mbrt.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Source code management</title>
+      <link>https://kopflos.mbrt.io/blog/posts/source-code-management/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kopflos.mbrt.io/blog/posts/source-code-management/</guid>
+      <description>Overview In order to manage the source code of »kopflos« I will use a Github repository which is publicly available via https://github.com/mbrt-yeah/kopflos.
+Since I&amp;rsquo;m going to use Scrumban which is an iteration-based development process (see Software development methodology, I will create a development branch for every iteration before it starts.
+This means, that at the beginning of each iteration, at least the following branches will be available in the repository:</description>
+    </item>
+    
     <item>
       <title>Programming language and coding conventions</title>
       <link>https://kopflos.mbrt.io/blog/posts/programming-language-and-coding-conventions/</link>
