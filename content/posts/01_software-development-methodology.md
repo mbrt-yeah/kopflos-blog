@@ -29,7 +29,7 @@ The actual Kanban board on which I will keep track of the work process can be fo
 ## Ground rules
 
 - An iteration cannot last longer than two weeks.
-- A feature is considered as implemented if, in addition to the source code, successfully passed tests have been created, a sufficient code documentation is available and a code review has been performed.
-- A feature implementation that did not pass code review will be moved back to the "In progress" category.
+- A feature is considered as implemented if, successfully passed tests have been created, a sufficient code documentation is available and of course it does not break previous code.
+- A feature implementation that did not pass the criteria mentioned above will be moved back to the "In progress" category.
 - Every iteration ends with a short evaluation. If not all features have been implemented, they will be earmarked for the next iteration.
 - No new features will be planned until the backlog is empty.

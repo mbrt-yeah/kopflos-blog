@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kopflos.mbrt.io/blog/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <loc>https://kopflos.mbrt.io/blog/tags/git/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kopflos.mbrt.io/blog/tags/language/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <loc>https://kopflos.mbrt.io/blog/tags/github/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/tags/management/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/tags/methodology/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kopflos.mbrt.io/blog/tags/planing/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kopflos.mbrt.io/blog/posts/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/tags/source-code/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/posts/source-code-management/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/tags/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kopflos.mbrt.io/blog/tags/language/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kopflos.mbrt.io/blog/tags/principles/</loc>
@@ -20,13 +41,7 @@
     <loc>https://kopflos.mbrt.io/blog/posts/programming-language-and-coding-conventions/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kopflos.mbrt.io/blog/tags/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kopflos.mbrt.io/blog/about/</loc>
-    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kopflos.mbrt.io/blog/tags/methodology/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kopflos.mbrt.io/blog/posts/software-development-methodology/</loc>

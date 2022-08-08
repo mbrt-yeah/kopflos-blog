@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://kopflos.mbrt.io/blog/sitemap.xml
